@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+</head>
+<body>
+<form action="/RegServlet" method="post">
+    <table>
+        <tr>
+            <td> ID</td>
+            <td><input type="text" name="id"></td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td><input type="password" name="password"></td>
+        </tr>
+        <tr>
+            <td>Re-Password</td>
+            <td><input type="password" name="re-password"></td>
+        </tr>
+        <br>
+
+        <tr>
+            <td>First Name</td>
+            <td><input type="text" name="firstName"></td>
+        </tr>
+        <tr>
+            <td>Last Name</td>
+            <td><input type="text" name="lastName"></td>
+        </tr>
+        <tr>
+            <td> Address</td>
+            <td><input type="text" name="address"></td>
+        </tr>
+        <tr>
+            <td>City</td>
+            <td><input type="text" name="city"></td>
+        </tr>
+        <tr>
+            <td>State</td>
+            <td><select name="state">
+                <option value="state1">state1</option>
+                <option value="state2">state2</option>
+                <option value="state3">state3</option>
+                <option value="state4">state4</option>
+            </select></td>
+        </tr>
+        <tr>
+            <td>Country</td>
+            <td><input type="text" name="country"></td>
+        </tr>
+        <tr>
+            <td>Email Address</td>
+            <td><input type="email" name="emailAddress"></td>
+        </tr>
+        <br>
+
+        <tr>
+            <td>Select Interest</td>
+            <td>
+                <input value="Technology" type="checkbox" name="interest">Technology
+                <input value="Enterprise" type="checkbox" name="interest">Enterprise
+                <input value="Research" type="checkbox" name="interest">Research
+                <input value="Government" type="checkbox" name="interest">Government
+                <input value="People" type="checkbox" name="interest">People
+                <input value="Life Style" type="checkbox" name="interest">Life Style
+                <input value="Opinion" type="checkbox" name="interest">Opinion
+            </td>
+        </tr>
+
+        <tr>
+            <td>Question</td>
+            <td><select name="question">
+                <option value="question1">question1</option>
+                <option value="question2">question2</option>
+                <option value="question3">question3</option>
+                <option value="question4">question4</option>
+            </select></td>
+        </tr>
+
+        <tr>
+            <td>Answer</td>
+            <td><input type="text" name="answer"></td>
+        </tr>
+
+        <tr>
+            <td></td>
+            <td>
+                <input type="submit" value="Submit Information">
+                <input type="reset" value="Reset Form"></td>
+        </tr>
+    </table>
+</form>
+</body>
+</html>
