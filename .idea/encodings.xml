@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/GuestBook/src/servlet/AddMessageServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/GuestBook/src/servlet/GetMessagesServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GuestBook/src/util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GuestBook/web/addMessage.htm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GuestBook/web/content.htm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GuestBook/web/fckeditor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Nov_11_JDBC/web/WEB-INF/libs/mysql-connector-java-8.0.13.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TheThirdExperiment/web/WEB-INF/libs/commons-beanutils-1.8.0.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TheThirdExperiment/web/WEB-INF/libs/commons-logging-1.2.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TheThirdExperiment/web/WEB-INF/libs/druid-1.0.9.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TheThirdExperiment/web/WEB-INF/libs/mchange-commons-java-0.2.12.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TheThirdExperiment/web/WEB-INF/libs/mysql-connector-java-8.0.13.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TheThirdExperiment/web/WEB-INF/libs/spring-beans-5.0.0.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TheThirdExperiment/web/WEB-INF/libs/spring-core-5.0.0.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TheThirdExperiment/web/WEB-INF/libs/spring-jdbc-4.3.6.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TheThirdExperiment/web/WEB-INF/libs/spring-tx-5.0.0.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebHomework/src/controller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebHomework/src/utils/StringUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebHomework/web/WEB-INF/libs/taglibs-standard-compat-1.2.5.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebHomework/web/WEB-INF/libs/taglibs-standard-impl-1.2.5.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebHomework/web/WEB-INF/libs/taglibs-standard-jstlel-1.2.5.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebHomework/web/WEB-INF/libs/taglibs-standard-spec-1.2.5.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebHomework/web/addMessage.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebHomework/web/fckeditor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day14_testLogin/web/WEB-INF/libs/commons-beanutils-1.8.0.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day14_testLogin/web/WEB-INF/libs/commons-logging-1.2.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day14_testLogin/web/WEB-INF/libs/druid-1.0.9.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day14_testLogin/web/WEB-INF/libs/mchange-commons-java-0.2.12.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day14_testLogin/web/WEB-INF/libs/mysql-connector-java-8.0.13.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day14_testLogin/web/WEB-INF/libs/spring-beans-5.0.0.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day14_testLogin/web/WEB-INF/libs/spring-core-5.0.0.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day14_testLogin/web/WEB-INF/libs/spring-jdbc-4.3.6.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day14_testLogin/web/WEB-INF/libs/spring-tx-5.0.0.RELEASE.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day15_response/web/img/background.jpg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day15_response/web/img/video.mp4" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

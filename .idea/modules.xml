@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GuestBook/GuestBook.iml" filepath="$PROJECT_DIR$/GuestBook/GuestBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheFirstExperiment/TheFirstExperiment.iml" filepath="$PROJECT_DIR$/TheFirstExperiment/TheFirstExperiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheForthExperiment/TheForthExperiment.iml" filepath="$PROJECT_DIR$/TheForthExperiment/TheForthExperiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nov_11_JDBC/TheSecondExperiment.iml" filepath="$PROJECT_DIR$/Nov_11_JDBC/TheSecondExperiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheThirdExperiment/TheThirdExperiment.iml" filepath="$PROJECT_DIR$/TheThirdExperiment/TheThirdExperiment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebHomework/WebHomework.iml" filepath="$PROJECT_DIR$/WebHomework/WebHomework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day01_jdbc/day01_jdbc.iml" filepath="$PROJECT_DIR$/day01_jdbc/day01_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_dataSource_jdbcTemplate/day02_dataSource_jdbcTemplate.iml" filepath="$PROJECT_DIR$/day02_dataSource_jdbcTemplate/day02_dataSource_jdbcTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13_servlet/day13_servlet.iml" filepath="$PROJECT_DIR$/day13_servlet/day13_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13_tomcat/day13_tomcat.iml" filepath="$PROJECT_DIR$/day13_tomcat/day13_tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14_servlet&amp;http&amp;request/day14_servlet&amp;http&amp;request.iml" filepath="$PROJECT_DIR$/day14_servlet&amp;http&amp;request/day14_servlet&amp;http&amp;request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14_testLogin/day14_testLogin.iml" filepath="$PROJECT_DIR$/day14_testLogin/day14_testLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15_response/day15_response.iml" filepath="$PROJECT_DIR$/day15_response/day15_response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16_cookie&amp;session/day16_cookie&amp;session.iml" filepath="$PROJECT_DIR$/day16_cookie&amp;session/day16_cookie&amp;session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testhotlinking/testhotlinking.iml" filepath="$PROJECT_DIR$/testhotlinking/testhotlinking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/基础加强/基础加强.iml" filepath="$PROJECT_DIR$/基础加强/基础加强.iml" />
+    </modules>
+  </component>
+</project>
